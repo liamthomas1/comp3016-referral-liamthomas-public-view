@@ -35,3 +35,5 @@ The project is idea is from game night and day loops
 Link to the youtube video with the current bulid of the projects: 
 https://youtu.be/eLExHpNiImk 
 
+Please read: this is a new area for the project if wonder why it becuse it is tie to university of plymouth account Link:https://github.com/Plymouth-University/2021-comp3016-referral-liamthomas1 here so i can't get access to the setting to public view so to fix it i move it over to here 
+
